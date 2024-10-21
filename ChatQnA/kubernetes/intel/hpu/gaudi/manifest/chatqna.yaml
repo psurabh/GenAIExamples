@@ -15,7 +15,7 @@ metadata:
     app.kubernetes.io/managed-by: Helm
 data:
   PORT: "2080"
-  HF_TOKEN: "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"
+  HF_TOKEN: "insert-your-huggingface-token-here"
   http_proxy: ""
   https_proxy: ""
   no_proxy: ""
